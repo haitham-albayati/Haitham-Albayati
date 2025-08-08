@@ -1,15 +1,37 @@
-# Haitham Albayati
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Haitham+Albayati+💻+QA+Automation+Engineer" alt="Typing SVG" />
+</h1>
 
 **`Software Development Engineer in Test`**
 
-Experienced Software Development Engineer in Test with around 6 years of expertise in designing and executing robust
-automation frameworks using JavaScript/TypeScript. Proficient in modern tools and frameworks like Playwright, Cypress,
-and Cucumber for end-to-end, UI, and behavior-driven testing. Skilled in UI/API testing, with hands-on experience
-integrating automated test suites into CI/CD pipelines. Recognized for being detail-oriented, reliable, and a team player.
+Passionate QA Automation Engineer with around 6 years of experience building scalable test frameworks and driving quality-first development. Adept at bridging the gap between development and QA through collaborative workflows, robust automation, and data-driven testing strategies. Proficient in modern tools and frameworks like Playwright, Cypress, and Cucumber for end-to-end, UI, and behavior-driven testing. Skilled in UI/API testing, with hands-on experience integrating automated test suites into CI/CD pipelines. Recognized for being detail-oriented, reliable, and a team player.
 
 ---
 
-### Languages and Tools
+### 🚀 Tech Highlights
+
+- ✅ Advanced Playwright scripting with global setup/teardown and flaky test handling  
+- ✅ Custom Cypress commands and reusable test workflows  
+- ✅ SQL for data validation and test data setup  
+- ✅ CI/CD integration with GitHub Actions and Jenkins  
+- ✅ API testing with Postman and JavaScript
+
+---
+
+### 🧪 Key Projects
+
+- **Virtual Wallet Automation**  
+  Designed and executed end-to-end Playwright test suites for a banking application, validating critical flows like fund transfers, account linking, and transaction history. Integrated seamlessly into CI/CD pipelines for rapid release cycles.
+
+- **E-Commerce Checkout Suite**  
+  Built robust Cypress regression tests for cart management, payment gateways, and promo code validation. Reduced manual QA effort by 60% and improved release confidence.
+
+- **Invoice Reconciliation API Tests**  
+  Developed API test workflows using Postman and JavaScript for B2B invoicing modules. Ensured accurate data validation and improved backend reliability.
+
+---
+
+### 🛠️ Languages and Tools
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -23,5 +45,8 @@ integrating automated test suites into CI/CD pipelines. Recognized for being det
 <img align="left" alt="Cypress" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/@cypress/icons/dist/icons/icon_32x32@2x.png" />
 <br />
 
-#
+---
+
+### 🌐 Connect with Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-HaithamAlbayati-blue?logo=linkedin)](https://www.linkedin.com/in/haitham-albayati/)
