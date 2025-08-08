@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=red&center=true&vCenter=true&width=435&lines=Haitham+Albayati" alt="Haitham Albayati Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=#FF0000&center=true&vCenter=true&width=435&lines=Haitham+Albayati" alt="Haitham Albayati Typing SVG" />
 </h1>
 
 **`Software Development Engineer in Test`**
