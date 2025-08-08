@@ -18,11 +18,10 @@ integrating automated test suites into CI/CD pipelines. Recognized for being det
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="/tandpfun/skill-icons/raw/main/icons/Postman.svg"/> 
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="/tandpfun/skill-icons/raw/main/icons/Cypress-Dark.svg"/>
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="/img/playwright-logo.svg"/>
+<img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"/>
+<img align="left" alt="Cypress" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/rajeshroyal/skill-icons/icons/Cypress-Light.svg" />
+<img align="left" alt="Playwright" width="30px" style="padding-right:10px;" src="https://playwright.dev/img/playwright-logo.svg"/>
 <br />
 
 #
-[Linkedin]: https://www.linkedin.com/in/haitham-albayati/
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-HaithamAlbayati-blue?logo=linkedin)](https://www.linkedin.com/in/haitham-albayati/)
