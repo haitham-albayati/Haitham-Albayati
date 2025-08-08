@@ -19,7 +19,7 @@ integrating automated test suites into CI/CD pipelines. Recognized for being det
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"/>
-<img align="left" alt="Cypress" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/cypress-io/cypress/develop/assets/cypress-logo.png" />
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 <img align="left" alt="Playwright" width="30px" style="padding-right:10px;" src="https://playwright.dev/img/playwright-logo.svg"/>
 <br />
 
